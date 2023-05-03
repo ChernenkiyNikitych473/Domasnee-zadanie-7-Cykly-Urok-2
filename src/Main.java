@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача №1");
         System.out.println("Решение задачи №1");
         int month = 0;
         int contribution = 15000;
@@ -39,7 +39,7 @@ public class Main {
     }
 
     public static void task3() {
-        System.out.println("Задача 3");
+        System.out.println("Задача №3");
         System.out.println("Решение задачи №3");
         int countryY = 12000000;
         int birtRateYear = 17;
@@ -71,7 +71,7 @@ public class Main {
     }
 
     public static void task5() {
-        System.out.println("Задание 5");
+        System.out.println("Задание №5");
         System.out.println("Решение задачи №5");
         int initialPayment = 15000;
         int totalSavings = 0;
@@ -87,7 +87,7 @@ public class Main {
     }
 
     public static void task6() {
-        System.out.println("Задача 6");
+        System.out.println("Задача №6");
         System.out.println("Решение задачи №6");
         int initialPayment = 15000;
         int totalSavings = 0;
@@ -106,7 +106,7 @@ public class Main {
     }
 
     public static void task7() {
-        System.out.println("Задача 7");
+        System.out.println("Задача №7");
         System.out.println("Решение задачи №7");
         int firstFriday = 1;
         int date = 0;
@@ -119,7 +119,7 @@ public class Main {
     }
 
     public static void task8() {
-        System.out.println("Задача 8");
+        System.out.println("Задача №8");
         System.out.println("Решение задачи №8");
         int yearNow = 2023;
         int yearEarlier = 200;
