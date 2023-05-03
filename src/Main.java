@@ -119,7 +119,7 @@ public class Main {
     }
 
     public static void task8() {
-        System.out.println("Задача 8");
+        System.out.println("Задача №8");
         System.out.println("Решение задачи №8");
         int yearNow = 2023;
         int yearEarlier = 200;
